@@ -1,14 +1,12 @@
 # Understanding Paillier Homomorphic Encryption
 
 <p align="center">
-  <img src="./thumbnail.png" alt="Paillier demo screenshot" width="800">
+  <a href="https://Bereket-G.github.io/paillier-homomorphic-encryption/">
+    <img src="https://github.com/user-attachments/assets/894eca88-3b33-4da3-87e3-dd39f9cf372d" alt="Paillier demo screenshot" width="800" />
+  </a>
 </p>
 
 **[→ Live demo](https://Bereket-G.github.io/paillier-homomorphic-encryption/)**
-
-**Thumbnail:** Add a screenshot of the app as `thumbnail.png` in the repo root (or update the path above).
-
-**GitHub Pages:** The app is built and deployed automatically on push to `main`. One-time setup: **Settings → Pages → Build and deployment → Source: GitHub Actions.**
 
 ---
 
