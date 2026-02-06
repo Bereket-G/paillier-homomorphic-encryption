@@ -1,5 +1,17 @@
 # Understanding Paillier Homomorphic Encryption
 
+<p align="center">
+  <img src="./thumbnail.png" alt="Paillier demo screenshot" width="800">
+</p>
+
+**[→ Live demo](https://Bereket-G.github.io/paillier-homomorphic-encryption/)**
+
+**Thumbnail:** Add a screenshot of the app as `thumbnail.png` in the repo root (or update the path above).
+
+**GitHub Pages:** The app is built and deployed automatically on push to `main`. One-time setup: **Settings → Pages → Build and deployment → Source: GitHub Actions.**
+
+---
+
 **Did you know you can add numbers while they’re still encrypted?**
 
 Or more generally: **you can compute on secret data without ever decrypting it.** That’s not science fiction — it’s homomorphic encryption. One of the cleanest ways to do it is the **Paillier** cryptosystem: it lets you add encrypted values, then decrypt only the final sum. That’s exactly what you want for private voting, secure surveys, or confidential analytics.
